@@ -25,6 +25,8 @@ h1 {
     display: inline-block;
     font-size: 19px;
     font: Helvetica;
+    margin-left: 875px;
+    margin-top: 50px;
   }
 h2 {
     color: brown;
