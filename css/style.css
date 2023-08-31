@@ -10,7 +10,7 @@ h1 {
     text-align: center;
 }
 #recipe {
-    color: rgb(54, 54, 197);
+    color: orangered;
     font-size: 22px;
     font-weight: bold;
     display: block;
@@ -85,4 +85,7 @@ p {
     display: block;
     margin-left: 750px;
     height: 550px;
+}
+a:hover {
+    color: orangered;
 }
