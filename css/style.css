@@ -12,6 +12,8 @@ h1 {
     color: rgb(54, 54, 197);
     font-size: 22px;
     font-weight: bold;
+    display: block;
+    margin-left: 550px;
 }
 #top-button {
     background-color: gray; /* Gray */
