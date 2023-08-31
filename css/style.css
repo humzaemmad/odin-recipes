@@ -4,13 +4,13 @@ body {
     background-color: beige;
 }
 h1 {
-    color: brown;
+    color: rgb(128, 50, 50);
     font-size: 32px;
     font-weight: bold;
     text-align: center;
 }
 #recipe {
-    color: orangered;
+    color: orange;
     font-size: 22px;
     font-weight: bold;
     display: block;
@@ -19,7 +19,7 @@ h1 {
 #top-button {
     background-color: gray; /* Gray */
     border: none;
-    color: brown;
+    color: rgb(128, 50, 50);
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -30,27 +30,27 @@ h1 {
     margin-top: 50px;
   }
 h2 {
-    color: brown;
+    color: rgb(128, 50, 50);
     font-size: 26px;
     font-weight: bold;
     text-align: center;
 }
 #ingredients {
-    color: rgb(54, 54, 197);
+    color: orange;
     font-size: 16px;
     font-weight: bold;
     display: block;
     margin-left: 500px;
 }
 #steps {
-    color: rgb(54, 54, 197);
+    color: orange;
     font-size: 16px;
     font-weight: bold;
     display: block;
     margin: 0 500px 0 500px;
 }
 p {
-    color: rgb(54, 54, 197);
+    color: orange;
     font-size: 16px;
     margin: 0px 500px 0px  500px;
 }
@@ -66,7 +66,7 @@ p {
 #home-button {
     background-color: gray; /* Gray */
     border: none;
-    color: brown;
+    color: rgb(128, 50, 50);
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -87,5 +87,5 @@ p {
     height: 550px;
 }
 a:hover {
-    color: orangered;
+    color: orange;
 }
